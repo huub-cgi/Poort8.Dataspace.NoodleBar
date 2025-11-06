@@ -4,6 +4,19 @@
 
 NoodleBar, developed by Poort8, is a cutting-edge dataspace solution designed to facilitate secure, controlled, and efficient data sharing among businesses. Known for its "dataspace in a day" capability, NoodleBar provides all the necessary building blocks to get a dataspace up and running quickly. Inspired by the iSHARE Trust Framework, NoodleBar adopts the same dataspace concepts and roles, ensuring seamless integration with iSHARE-compliant systems.
 
+## 🌟 Open Source & Support
+
+This project is **open sourced by Poort8** to facilitate others in setting up dataspaces. This is a fork of Poort8's internal system.
+
+**📋 Important notes:**
+
+* 🔄 Poort8 updates this project only at their discretion
+* 🐛 **Bugs, feature requests, and questions**: Submit them via [GitHub Issues](https://github.com/POORT8/Poort8.Dataspace.NoodleBar/issues) only
+* ⚠️ **No official support**: Poort8 does not provide support and gives no commitments on bug fixes
+* 🤝 **Community support only**: The community may help, but there are no guarantees or SLAs
+
+💡 If you need guaranteed support or specific features, consider contributing to the project or forking it for your own needs.
+
 ## Table of Contents
 
 1. [Introduction](docs/01%20-%20Introduction.md)
