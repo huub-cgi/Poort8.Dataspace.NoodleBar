@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Options;
+using Microsoft.OpenApi.Services;
 using NSwag;
 
 namespace Poort8.Dataspace.CoreManager.Services;

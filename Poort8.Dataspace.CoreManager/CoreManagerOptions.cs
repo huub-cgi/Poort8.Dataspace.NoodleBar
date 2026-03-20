@@ -16,4 +16,5 @@ public class CoreManagerOptions
     public string ResourceAlternativeName { get; set; } = "Resource";
     public string? JwtTokenAuthority { get; set; }
     public string? JwtTokenAudience { get; set; }
+    public string? OpenApiUrls {get; set;}
 }
